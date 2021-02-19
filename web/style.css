@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 12, 2020, 1:58:43 PM
+    Author     : Bhatti
+*/
+*
+{
+    padding:0px;
+    margin:0px;
+    
+}
+.bg-color
+{
+   background:#008080 ; 
+}
+.height-100
+{
+    height:90vh;
+    width:100%;
+}
+
+.header
+{
+    height: 90vh;
+    width: 100%;
+    background:linear-gradient(to right,rgba(62,32,233,1),rgba(250,64,64,0.5)),url('https://images.pexels.com/photos/35188/child-childrens-baby-children-s.jpg?cs=srgb&dl=people-girl-design-happy-35188.jpg&fm=jpg');   
+    color: #fff;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: 100% 100%;
+}
+.h-100
+{
+    width:100%;
+    height: 100%;
+}
